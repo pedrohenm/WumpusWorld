@@ -1,0 +1,9 @@
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\bin\Debug\WompusWorld.exe.config
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\bin\Debug\WompusWorld.exe
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\bin\Debug\WompusWorld.pdb
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\obj\Debug\WumpusWorld.csproj.AssemblyReference.cache
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\obj\Debug\WumpusWorld.Properties.Resources.resources
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\obj\Debug\WumpusWorld.csproj.GenerateResource.cache
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\obj\Debug\WumpusWorld.csproj.CoreCompileInputs.cache
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\obj\Debug\WompusWorld.exe
+C:\Users\phmedeiros.3mpk\Desktop\WumpusWorld\WumpusWorld\obj\Debug\WompusWorld.pdb
